@@ -1,5 +1,8 @@
 <div align=left><h2>🚩도서 구매 및 중고거래 플랫폼🚩</h2></div>
 
+### 💡PPT
+[곽승현_DADOK_EVENT.pdf](https://github.com/gom2gomin/dadok/files/13901692/_DADOK_EVENT.pdf)
+
 ### 💡개요
 + 일반 도서사이트와 구별하여 신규 및 중고 도서를 판매해, 사용자들이 가지고 있
 던 기존 도서들을 구매하여 다시 중고로 판매하는 기능을 추가하여, 더욱 많은 사람에게
